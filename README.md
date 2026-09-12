@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Anjankumar LN</h1>
-<h3 align="center">Engineering Student | Full-Stack Developer | Open Source Enthusiast</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=220&section=header&text=Hi%20👋,%20I'm%20Anjankumar%20LN&fontSize=36&fontColor=ffffff&animation=fadeIn&desc=Engineering%20Student%20|%20Full-Stack%20Developer%20|%20Open%20Source%20Enthusiast&descSize=17&descAlignY=68" width="100%" />
+</p>
 
 <p align="center">
-Building impactful solutions with MERN, AI, and Open Source.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+impactful+solutions+with+MERN%2C+AI%2C+and+Open+Source.;Turning+ideas+into+scalable+code.;Always+learning%2C+always+shipping." alt="Typing Tagline" />
 </p>
 
 <p align="center">
