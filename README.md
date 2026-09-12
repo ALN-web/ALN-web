@@ -1,124 +1,113 @@
-<div align="center">
-
-# `> whoami`
-# Hi, I'm **Anjankumar LN**
-
-**FULL-STACK DEVELOPER** &nbsp;|&nbsp; **OPEN SOURCE ENTHUSIAST** &nbsp;|&nbsp; **LIFELONG LEARNER**
-
-I love building impactful solutions with code.  
-Currently exploring the intersection of AI, Web Development, and Open Source to create real-world impact.
+<h1 align="center">Hi 👋, I'm Anjankumar LN</h1>
+<h3 align="center">Engineering Student | Full-Stack Developer | Open Source Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/YOUR_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://twitter.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+Building impactful solutions with MERN, AI, and Open Source.
 </p>
 
-> *"Consistent progress beats perfect plans."*
-
-</div>
-
----
-
-### 🚀 Currently Building &nbsp;&nbsp;·&nbsp;&nbsp; 🌱 Currently Learning
-
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h4>🚀 Currently Building <sub><code>IDEAS TO IMPACT</code></sub></h4>
-      <ul>
-        <li>
-          <b>Servora</b> — <i>AI-powered Customer Resolution System</i><br/>
-          Automating issue triaging, resolution workflows, and customer support operations.
-        </li>
-        <br/>
-        <li>
-          <b>Full-Stack Projects</b><br/>
-          Building modern web applications using MERN Stack.
-        </li>
-        <br/>
-        <li>
-          <b>Open Source Contributions</b><br/>
-          Contributing to meaningful open-source projects.
-        </li>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h4>🌱 Currently Learning</h4>
-      <ul>
-        <li>🗄️ <b>MERN Stack Development</b></li>
-        <li>🧠 <b>AI Agents & LLM Applications</b></li>
-        <li>🛡️ <b>Blockchain & Cybersecurity</b></li>
-        <li>🏗️ <b>System Design</b></li>
-        <li>📖 <b>Open Source Engineering</b></li>
-      </ul>
-      <h4>🤝 Looking to Collaborate On</h4>
-      <ul>
-        <li>🌐 <b>Open Source Projects</b></li>
-        <li>🤖 <b>AI Agents & Automation</b></li>
-        <li>💻 <b>Full-Stack Development</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💬 Highlights & Focus
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>💬 Ask Me About</h4>
-      <ul>
-        <li>Data Structures & Algorithms</li>
-        <li>JavaScript • React • Node.js</li>
-        <li>MongoDB & REST APIs</li>
-        <li>Git & GitHub</li>
-        <li>Hackathons & Open Source</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🤝 Looking for Help With</h4>
-      <ul>
-        <li>Scaling real-world SaaS products</li>
-        <li>Advanced System Design</li>
-        <li>GSoC Preparation</li>
-      </ul>
-    </td>
-    <td width="34%" valign="top">
-      <h4>⚡ Fun Fact</h4>
-      <p>I enjoy turning hackathon ideas into working prototypes within days. 🎮</p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack <sub><code>TOOLS THAT POWER IDEAS</code></sub>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,ts,react,nodejs,express,django,fastapi,mongodb,mysql,tailwind,vite,figma&theme=dark" alt="Tech Stack" />
+  <a href="https://github.com/ALN-web">
+    <img src="https://komarev.com/ghpvc/?username=ALN-web&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Currently Building
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+### Servora
+An AI-powered Customer Resolution System designed to automate issue triaging, resolution workflows, and customer support operations.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="98%" />
+### Open Source
+Actively contributing to open-source projects and improving developer tools.
+
+### Learning by Building
+Creating full-stack applications and AI-powered products using modern technologies.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced MERN Stack Development
+- AI Agents & LLM Applications
+- Blockchain & Cybersecurity
+- System Design
+- Open Source Engineering
+
+---
+
+## 💡 Ask Me About
+
+- Data Structures & Algorithms
+- JavaScript & TypeScript
+- React.js & Node.js
+- MongoDB & REST APIs
+- Git & GitHub
+- Hackathons & Open Source
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/anjankumarln"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>
+<a href="https://instagram.com/akln_17"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>
+<a href="mailto:anjankumarln120@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
 
 ---
 
-<div align="center">
-  <h3><i>"Let's build something amazing together!"</i></h3>
-  <sub>Built with ❤️ • Thank you for visiting! ⭐</sub>
-</div>
+## ⚡ Tech Stack
+
+### Languages
+![My Skills](https://skillicons.dev/icons?i=c,cpp,java,python,js,ts)
+
+### Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,vite)
+
+### Backend
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,django,fastapi)
+
+### Database
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)
+
+### Tools
+![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ALN-web&show_icons=true&theme=transparent" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALN-web&layout=compact&theme=transparent" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ALN-web&theme=transparent" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ALN-web&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Contribute consistently to Open Source
+- Build production-grade SaaS products
+- Get selected for GSoC
+- Master MERN Stack
+- Solve 500+ DSA problems
+- Ship AI-powered applications
+
+---
+
+### ✨ Fun Fact
+
+I enjoy turning hackathon ideas into working prototypes in just a few days.
