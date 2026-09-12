@@ -1,41 +1,163 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Anjankumar LN</h1>
 
-  <!-- Dynamic Typing Effect Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B%2C+I'm+Anjankumar+LN;Full-Stack+Developer+%26+System+Enthusiast;Building+Scalable+MERN+%2B+AI+Solutions;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+<p align="center">
+  <b>Engineering Student • Full Stack Developer • Open Source Enthusiast</b>
+</p>
 
-  <p align="center">
-    <strong>Information Science & Engineering Undergrad</strong> • Turning complex backend logic & elegant UI into production-grade systems.
-  </p>
+<p align="center">
+Building AI-powered products, solving real-world problems, and contributing to Open Source.
+</p>
 
-  <!-- Profile Badges & Stats Tracker -->
-  <p align="center">
-    <a href="https://github.com/ALN-web">
-      <img src="https://komarev.com/ghpvc/?username=ALN-web&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-    </a>
-    <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20AI-blue?style=for-the-badge&color=2563eb" alt="Focus" />
-    <img src="https://img.shields.io/badge/Open%20Source-Active-emerald?style=for-the-badge&color=059669" alt="Open Source" />
-  </p>
-
-  <!-- Quick Social Links -->
-  <p align="center">
-    <a href="https://linkedin.com/in/anjankumarln"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:anjankumarln120@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://instagram.com/akln_17"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  </p>
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Contributor;Building+Servora;Learning+AI+Agents;MERN+Stack+Developer;Hackathon+Builder" />
+</p>
 
 ---
 
-### ⚡ Snapshot
+## 🚀 Featured Project
 
-```bash
-const anjankumar = {
-  status: "Building Servora & hacking next-gen prototypes",
-  coreStack: ["React", "Node.js", "FastAPI", "TailwindCSS", "PostgreSQL"],
-  architecture: ["REST APIs", "Microservices", "System Design"],
-  currentExplorations: ["LLM Agents", "Phishing & Fraud Detection Architecture"],
-  funFact: "I turn chaotic hackathon ideas into functional products in under 48 hours."
-};
+### Servora
+
+**AI-Powered Customer Resolution System**
+
+- Smart Issue Classification
+- AI-Powered Resolution Suggestions
+- Automated Ticket Routing
+- Customer Support Analytics
+- Built for Real-World Service Operations
+
+> Transforming customer support through AI-driven automation.
+
+---
+
+## 💫 About Me
+
+🔭 Currently Building
+- Servora – AI-Powered Customer Resolution System
+- Full-Stack Applications using MERN
+- Open Source Contributions
+
+🌱 Currently Learning
+- MERN Stack
+- AI Agents & LLM Applications
+- Blockchain & Cybersecurity
+- System Design
+
+👯 Looking to Collaborate On
+- Open Source Projects
+- AI & Automation
+- Full Stack Development
+
+💬 Ask Me About
+- Data Structures & Algorithms
+- JavaScript & TypeScript
+- React & Node.js
+- MongoDB
+- Hackathons
+- Open Source
+
+⚡ Fun Fact
+- I enjoy turning hackathon ideas into working prototypes within days.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
+
+---
+
+## 🏆 Current Goals
+
+- 🚀 Build production-ready SaaS products
+- 🌟 Become a consistent Open Source contributor
+- 🎯 Master System Design
+- 🤖 Build AI-powered applications
+- 💻 Solve 500+ DSA problems
+- 🏅 Get selected for GSoC
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ALN-web&show_icons=true&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALN-web&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=ALN-web&theme=transparent&hide_border=true" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ALN-web&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ALN-web&theme=algolia&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/anjankumarln">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/akln_17">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="mailto:anjankumarln120@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+## 💭 Developer Philosophy
+
+```text
+Build → Learn → Improve → Repeat
+```
+
+> Consistent progress beats perfect plans.
+
+---
+
+<p align="center">
+⭐ If you like my work, consider following my journey!
+</p>
