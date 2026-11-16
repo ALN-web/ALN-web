@@ -41,9 +41,9 @@
 </td>
 <td width="48%" align="center" valign="top">
 
-<img src="./assets/ascii.svg" width="100%" alt="ASCII portrait of Anjankumar LN"/>
+<img src="./assets/career.svg" width="100%" alt="career git graph of Anjankumar LN"/>
 
-<sub><i>yes, that's me — rendered in 3,000+ characters</i></sub>
+<sub><i>my career, version-controlled. no force-pushes. (yet)</i></sub>
 
 </td>
 </tr>
